@@ -20,7 +20,7 @@ We use this Data in commands listed below:
 7) Temp mute Command
 
 
-## 4. Do we share you Data?
+## 4. Do we share your Data?
 No, About your Data it is completely safe and secure we don't share it with anyone else
 
 
